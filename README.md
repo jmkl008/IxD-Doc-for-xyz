@@ -1,2 +1,2 @@
-# IxD-Doc-for-xyz
-A private documents for websites
+# Ixd-Doc-INS
+Documents for xyz websites
